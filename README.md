@@ -1,3 +1,4 @@
-sample
-# ok
-## Done using Pycharm 
+# sample
+Done using Pycharm using db.sqlite3
+
+
